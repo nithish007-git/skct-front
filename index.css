@@ -1,0 +1,285 @@
+*{
+    background-color: rgb(234, 234, 234);
+    height: 600px;
+}
+.img2{
+    position: absolute;
+    top :0px;
+    left:0px;
+    right:0px;
+    height: 380px;
+    opacity: 0.5px;
+    width: 39cm;
+}
+
+.center{
+    position: relative;
+    top:50px;
+    left:550px;
+}
+.instagram{
+    position: absolute;
+    top:70px;
+    left:23.5cm;
+    width: 30px;
+    height: 30px;
+    color: aqua;
+    border-radius: 50%;
+    
+     
+}
+.instaimage{
+    position: absolute;
+    top:50px;
+    width: 70px;
+    height: 60px;
+}
+
+.linkden{
+    position: absolute;
+    top:70px;
+    left:25cm;
+    width: 30px;
+    height: 30px;
+    border-radius: 60%;
+
+
+}
+.gmail{
+    position: absolute;
+    top:70px;
+    left:26.5cm;
+    width: 30px;
+    height: 30px;
+    border-radius: 60%;
+
+}
+.youtube{
+    position: absolute;
+    top:70px;
+    left:28cm;
+    width: 30px;
+    height: 30px;
+    border-radius: 60%;
+
+}
+.Logo{
+    position: absolute;
+    top:40px;
+    left:4cm;
+    width: 260px;
+    height: 150px;
+
+}
+.carousel .carousel-item {
+    position: absolute;
+    height: 00px;
+    width:38cm;
+    top:10px;
+
+    /* left: 40px;
+    right:40px; */
+  
+  }
+.carousel-item img {
+    position: absolute;
+    top: 20;
+    left: 20px;
+    right:30px;
+    min-height: 300px;
+}
+#body{
+    position: relative;
+}
+/* .carousel-inner{
+   height:10cm;
+   position:relative;
+   top: 40px
+    
+} */
+
+.lab{
+    position: absolute;
+    top:12cm;
+    left:17cm;
+    font-family: monospace;
+}
+
+.carousel-inner > .carousel-item > img {
+    width:auto;
+    height: 460px;
+  }
+/* h3{
+    color: ;
+} */
+.secondbody{
+    position: relative;
+
+}
+.acheivements{
+    position: absolute;
+    left:17cm;
+    font-family: 'Fira Sans', sans-serif;
+}
+.quality{
+    position: absolute;
+    height:100px;
+    top: 4.8cm;
+    left:5cm;
+
+}
+.text-1{
+    position: absolute;
+    top:8cm;
+    left:4.8cm;
+    font-size: 20px;
+    color: #B2B2B2  ;
+}
+.man{
+    position: absolute;
+    top:8cm;
+    left:4.8cm;
+    height:100px;
+    top: 4.7cm;
+    left:12cm;
+}
+.head-1{
+    position: absolute;
+    top:7.6cm;
+    left:12.5cm;
+    font-size: 50px;
+    color: #11468F;
+
+}
+.test-2
+{
+    position: absolute;
+    top:9.5cm;
+    left:12cm;
+    font-size: 20px;
+    color: #B2B2B2;
+    text-align: center;
+
+}
+.scholar{
+    position: absolute;
+    top:4.7cm;
+    left:18cm;
+    height:100px;
+
+}
+.head-2{
+    position: absolute;
+    top:7.6cm;
+    left:18.5cm;
+    font-size: 50px;
+    color:#11468F ;
+}
+.test-3{
+    position: absolute;
+    top:9.5cm;
+    left:17.5cm;
+    font-size: 19px;
+    color: #B2B2B2;
+    text-align: center;
+
+}
+.head-3{
+    position: absolute;
+    top:7.6cm;
+    left:25cm;
+    font-size: 50px;
+    color:#11468F ;
+
+}
+.test-4{
+    position: absolute;
+    top:9.5cm;
+    left:24.5cm;
+    font-size: 19px;
+    color: #B2B2B2;
+    text-align: center;
+}
+.book{
+    position: absolute;
+    top:4.7cm;
+    left:24.6cm;
+    height:100px;
+
+}
+.head-4
+{   position: absolute;
+    top:7.6cm;
+    left:32.5cm;
+    font-size: 50px;
+    color:#11468F ;
+
+}
+.test-5{
+    position: absolute;
+    top:9.5cm;
+    left:32.5cm;
+    font-size: 19px;
+    color: #B2B2B2;
+    text-align: center;
+
+}
+.analytics{
+    position: absolute;
+    top:4.7cm;
+    left:32cm;
+    height:100px;
+
+}
+.head-5{
+    position: absolute;
+    top:18.5cm;
+    left:13.9cm;
+    font-size: 50px;
+    color:#11468F ;
+
+}
+.test-6{
+    position: absolute;
+    top:20.3cm;
+    left:13.6cm;
+    font-size: 22px;
+    color: #B2B2B2;
+    text-align: center;
+
+}
+.crowdfund{
+    position: absolute;
+    top:15cm;
+    left:13cm;
+    height:120px;
+}
+.head-6{
+    position: absolute;
+    top:18cm;
+    left:24cm;
+    font-size: 50px;
+    color:#11468F ;
+
+
+}
+.test-7{
+    position: absolute;
+    top:20cm;
+    left:24cm;
+    font-size: 22px;
+    color: #B2B2B2;
+    text-align: center;
+
+
+}
+.certificate{
+    position: absolute;
+    top:15cm;
+    left:25.5cm;
+    height:100px;
+
+}
+#home{
+    background-image:url(home.png);
+}
