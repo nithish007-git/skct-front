@@ -1,0 +1,349 @@
+a{
+    color: rgb(40, 35, 131);
+}
+.img1{
+    position: absolute;
+    top:0px;
+    left:0px;
+    width:41cm;
+    height:10cm;
+    overflow-y: hidden;
+}
+.insta{
+    position: absolute;
+    top:2cm;
+    left:37.9cm;
+    width: 36px;
+    height: 36px;
+   transition: all 0.3s ease;
+    color: rgb(83, 6, 6);
+}
+.rect-1{
+ 
+    position: absolute;
+    top:1cm;
+    left:37.4cm;
+    height: 290px;
+    width: 100px;
+    border-radius: 10px;
+    background-color: #000;
+    color: #fff;
+    opacity: .5;
+
+
+}
+
+.twitter{
+    position: absolute;
+    top:3.3cm;
+    left:37.9cm;
+    height: 40px;
+    width: 40px;
+
+}
+.youtube{
+    position: absolute;
+    top:4.5cm;
+    left:37.7cm;
+    height: 55px;
+    width: 55px;
+}
+.linden{
+    position: absolute;
+    top:6.2cm;
+    left:37.9cm;
+    height: 40px;
+    width: 40px;
+
+}
+
+
+#mainbody{
+    position: relative;
+    top:15cm;
+    left:10cm;
+    height: 10cm;
+    width: 20cm;
+    align-items: center;
+
+}
+/* .img12{
+    width: 5cm;
+    height: 6cm;
+    
+} */
+.lab{
+    text-align: center;
+    padding-bottom: 30px;
+}
+#footer{
+    background-color: rgb(74, 71, 219);
+    position: relative;
+    width: 40cm;
+    height:60cm;
+    top:23cm;
+
+}
+.text{
+    position: absolute;
+    top:30cm;
+    left: 18cm;
+    background-color: #000;
+
+}
+.year1{
+position: absolute;
+top:2cm;
+left:17cm;
+height: 50px;
+width: 130px;
+background-color: rgb(0, 0, 0); 
+color: rgb(255, 255, 255); 
+border: 2px solid #452c2c;
+transition-duration: 0.4s;
+border-radius: 30px;
+
+
+}
+/* .year1:hover {
+    background-color: rgb(207, 70, 109);
+    color:rgb(0, 0, 0);
+} */
+.Placement{
+    position: absolute;
+    width:430px;
+    height:300px;
+    top:6cm;
+    left:4cm;
+}
+.place{
+    position: absolute;
+    width:400px;
+    height:300px;
+    top:6cm;
+    left:20cm;
+    color: #fff;
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+
+
+}
+.text-1{
+    position: absolute;
+    width:400px;
+    height:300px;
+    top:8cm;
+    left:20cm;
+    color: #fff;
+    font-family: 'Noto Sans', sans-serif;
+
+
+}
+.text-2{
+    position: absolute;
+    top:11.5cm;
+    left:20cm;
+    color: #fff;
+    font-family: 'Noto Sans', sans-serif;
+
+}
+.line{
+    position:absoulte;
+    top:10cm;
+    color: #fff;
+}
+.stu{
+    position: absolute;
+    top:16.5cm;
+    left:6.5cm;
+    color: #fff;
+    padding-bottom: 14px;
+    font-family: 'Poppins', sans-serif;
+
+
+}
+.text-3{
+    position: absolute;
+    top:18cm;
+    left:6.5cm;
+    color: #fff;
+    font-family: 'Noto Sans', sans-serif;
+
+}
+.text-4{
+    position: absolute;
+    top:21cm;
+    left:6.5cm;
+     color: #fff  ;
+     font-family: 'Noto Sans', sans-serif;
+
+
+}
+.student{
+    position: absolute;
+    top:15cm;
+    left:22cm;
+    width:450px;
+    height:320px;
+    font-family: 'Poppins', sans-serif;
+}
+.faculty{
+position: absolute;
+top:27cm;
+left:19.5cm;
+color: #fff;
+/* font-size:30px; */
+font-family: 'Poppins', sans-serif;
+
+}
+.teacher{
+    position: absolute;
+    top:27.0cm;
+    left:6cm;
+    height: 300px;
+    padding-bottom: 10px;
+    font-family: 'Noto Sans', sans-serif;
+
+
+
+}
+.text-5{
+    position: absolute;
+    top:29cm;
+    left: 19.5cm;
+    color: #fff;
+    font-size: 20px;
+    font-family: 'Noto Sans', sans-serif;
+
+
+}
+.text-6{
+    position: absolute;
+    top:32cm;
+    left:19.5cm;
+    color: #fff;
+    font-family: 'Noto Sans', sans-serif;
+
+}
+.student1{
+    position: absolute;
+    top:37cm;
+    left:20cm;
+    height: 300px;
+    font-family: 'Noto Sans', sans-serif;
+
+}
+.out-stu{
+    position: absolute;
+    top:37cm;
+    left:6.5cm;
+    color: #fff;
+    font-size: 40px;
+    font-family: 'Poppins', sans-serif;
+
+
+}
+.text-7{
+    position: absolute;
+    top:38.9cm;
+    left: 6.5cm;
+    color: #fff;
+    font-family: 'Noto Sans', sans-serif;
+}
+.text-8{
+    position: absolute;
+    top:41.9cm;
+    left: 6.5cm;
+    color: #fff;
+    font-family: 'Noto Sans', sans-serif;
+
+}
+.year2{
+    position: absolute;
+    top:47cm;
+    left:17cm;
+    border-radius: 30px;
+    width:4.5cm;
+    height: 1.5cm;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255); 
+    border: 2px solid #452c2c;
+    transition-duration: 0.4s;
+}
+/* .year2:hover{
+   
+    color:rgb(0, 0, 0);
+
+} */
+.year3{
+    position: absolute;
+    top:52cm;
+    left:6cm;
+    border-radius: 30px;
+    width:4.5cm;
+    height: 1.5cm;
+    background-color: rgb(84, 71, 91); 
+    color: rgb(6, 4, 4); 
+    border: 2px solid #452c2c;
+    transition-duration: 0.4s;
+
+}
+.year3:hover{
+    background-color: rgb(0, 0, 0);
+    color:rgb(255, 255, 255);
+}
+.year4{
+    position: absolute;
+    top:52cm;
+    left:14cm;
+    border-radius: 30px;
+    width:4.5cm;
+    height: 1.5cm;
+    background-color: rgb(84, 71, 91); 
+    color: black; 
+    border: 2px solid #452c2c;
+    transition-duration: 0.4s;
+
+}
+.year4:hover{
+    background-color: rgb(0, 0, 0);
+    color:rgb(255, 255, 255);
+}
+
+
+.year5{
+    position: absolute;
+    top:52cm;
+    left:22cm;
+    border-radius: 30px;
+    width:4.5cm;
+    height: 1.5cm;
+    background-color: rgb(84, 71, 91); 
+    color: black; 
+    border: 2px solid #452c2c;
+    transition-duration: 0.4s;
+
+}
+.year5:hover{
+    background-color: rgb(0, 0, 0);
+    color:rgb(255, 255, 255);
+
+}
+.year6{
+    position: absolute;
+    top:52cm;
+    left:30cm;
+    border-radius: 30px;
+    width:4.5cm;
+    height: 1.5cm;
+    background-color: rgb(84, 71, 91); 
+    color: black; 
+    border: 2px solid #452c2c;
+    transition-duration: 0.4s;
+
+}
+.year6:hover{
+    background-color: rgb(0, 0, 0);
+    color:rgb(255, 255, 255);
+
+}
